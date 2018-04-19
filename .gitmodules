@@ -1,0 +1,3 @@
+[submodule "try-child-repo"]
+	path = try-child-repo
+	url = git@github.com:howtomakeaturn/try-child-repo.git
